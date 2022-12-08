@@ -19,12 +19,12 @@ My challenge was to build a personal page.
 
 ### Screenshot
 
-![](Screenshot (65).png)
+![](./Screenshot%20(103).png)
 
 ### Links
 
-- Solution URL: (https://github.com/faridah202/flexbox-assignment.git)
-- Live Site URL: (https://peaceful-kitsune-f7d4f5.netlify.app/)
+- Solution URL: (https://github.com/faridah202/single-page-personal-website.git)
+- Live Site URL: (https://dashing-elf-90afe5.netlify.app/)
 
 ## My process
 
